@@ -18,7 +18,7 @@ concerning complex image-to-image regressions. The network architecture refers t
 ![](https://github.com/njujinchun/pCNN4GCS/blob/main/images/pCNN_arch.jpg)
 
 # Datasets
-The datasets used in pCNN have been uploaded to Google Drive and can be downloaded using this link [Google Drive](https://drive.google.com/drive/folders/1mi9Cmgnufi3kSMCeedP7G_K-4aEcd3_A?usp=drive_link).
+The datasets used in pCNN have been uploaded to [Google Drive](https://drive.google.com/drive/folders/1mi9Cmgnufi3kSMCeedP7G_K-4aEcd3_A?usp=drive_link) and can be downloaded using this link.
 
 # Network Training
 ```
