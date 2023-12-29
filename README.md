@@ -3,8 +3,8 @@ Li Feng, [Shaoxing Mo](https://scholar.google.com/citations?user=b5m_q4sAAAAJ&hl
 [Xiaoqing Shi](https://scholar.google.com/citations?user=MLKqgKoAAAAJ&hl=en&oi=sra)
 
 This is a PyTorch implementation of probabilistic Convolutional Neural Network (pCNN) for uncertainty quantification of $CO_2$ plume migration in highly channelized aquifers with 
-non-Gaussian permeability fields of geological carbon storage (GCS) projects. pCNN can provide reliable predictions and predictive uncertainties of CO$_2$ saturation fields and then 
-be used in uncertainty quantification (UQ) of CO$_2$ plume migration in non-Gaussian permeability fields. It can also be applied to other multiphase flow problems 
+non-Gaussian permeability fields of geological carbon storage (GCS) projects. pCNN can provide reliable predictions and predictive uncertainties of $CO_2$ saturation fields and then 
+be used in uncertainty quantification (UQ) of $CO_2$ plume migration in non-Gaussian permeability fields. It can also be applied to other multiphase flow problems 
 concerning complex image-to-image regressions. The network architecture refers to the work of Zhu and Zabaras (2018)(https://www.sciencedirect.com/science/article/pii/S0021999118302341).
 
 ## Dependencies
@@ -41,7 +41,7 @@ See [Feng et al. (2024)](https://doi.org/10.1016/j.advwatres.2023.104607) for mo
 ```
 or:
 ```
-Feng, L., Mo, S., Sun, A. Y., Wu, J., & Shi, X. (2023). Uncertainty quantification of CO$_2$ plume migration in highly channelized aquifers using probabilistic 
+Feng, L., Mo, S., Sun, A. Y., Wu, J., & Shi, X. (2023). Uncertainty quantification of $CO_2$ plume migration in highly channelized aquifers using probabilistic 
 convolutional neural networks. Advances in Water Resources, 104607. https://doi.org/10.1016/j.advwatres.2023.104607
 ```
 Related article: [Zhu, Y., & Zabaras, N. (2018). Bayesian deep convolutional encoder–decoder networks for surrogate modeling and uncertainty quantification. J. Comput. Phys., 366, 415-447.](https://www.sciencedirect.com/science/article/pii/S0021999118302341)
