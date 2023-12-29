@@ -16,6 +16,10 @@ concerning complex image-to-image regressions.
 ## pCNN network architecture
 ![](https://github.com/njujinchun/pCNN4GCS/blob/main/images/pCNN_arch.jpg)
 
+## Reference $CO_2$ saturation fields (b-d), pCNN's predictions (e-g), the differences between references and predictions (h-j) and predictive uncertainties (k-m)
+![]()
+
+
 # Datasets
 The datasets used in pCNN have been uploaded to [Google Drive](https://drive.google.com/drive/folders/1mi9Cmgnufi3kSMCeedP7G_K-4aEcd3_A?usp=drive_link) and can be downloaded using this link.
 
