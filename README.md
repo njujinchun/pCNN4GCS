@@ -44,8 +44,7 @@ or:
 Feng, L., Mo, S., Sun, A. Y., Wu, J., & Shi, X. (2023). Uncertainty quantification of CO$_2$ plume migration in highly channelized aquifers using probabilistic 
 convolutional neural networks. Advances in Water Resources, 104607. https://doi.org/10.1016/j.advwatres.2023.104607
 ```
-Related article: [Zhu, Y., & Zabaras, N. (2018). Bayesian deep convolutional encoder–decoder networks for surrogate modeling and uncertainty quantification. J. Comput. Phys., 366, 415-447.]
-(https://www.sciencedirect.com/science/article/pii/S0021999118302341)
+Related article: [Zhu, Y., & Zabaras, N. (2018). Bayesian deep convolutional encoder–decoder networks for surrogate modeling and uncertainty quantification. J. Comput. Phys., 366, 415-447.](https://www.sciencedirect.com/science/article/pii/S0021999118302341)
 
 ## Questions
 Contact Li Feng (dz1929010@smail.nju.edu.cn) or Shaoxing Mo (smo@nju.edu.cn) with questions or comments.
