@@ -1,6 +1,6 @@
 ## [Uncertainty quantification of CO$_2$ plume migration in highly channelized aquifers using probabilistic convolutional neural networks](https://doi.org/10.1016/j.advwatres.2023.104607)
 [Li Feng], [Shaoxing Mo](https://scholar.google.com/citations?user=b5m_q4sAAAAJ&hl=en&oi=ao), [Alexander Y. Sun]
-(https://scholar.google.com/citations?hl=zh-CN&user=NfjnpFYAAAAJ&view_op=list_works&sortby=pubdate#d=gs_hdr_drw&t=1703833969984), Jichun Wu, 
+(https://scholar.google.com/citations?hl=en&user=NfjnpFYAAAAJ), Jichun Wu, 
 [Xiaoqing Shi](https://scholar.google.com/citations?user=MLKqgKoAAAAJ&hl=en&oi=sra)
 
 This is a PyTorch implementation of probabilistic Convolutional Neural Network (pCNN) for uncertainty quantification of CO$_2$ plume migration in highly channelized aquifers with 
