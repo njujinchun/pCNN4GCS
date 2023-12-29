@@ -2,7 +2,7 @@
 Li Feng, [Shaoxing Mo](https://scholar.google.com/citations?user=b5m_q4sAAAAJ&hl=en&oi=ao), [Alexander Y. Sun](https://scholar.google.com/citations?hl=en&user=NfjnpFYAAAAJ), Jichun Wu, 
 [Xiaoqing Shi](https://scholar.google.com/citations?user=MLKqgKoAAAAJ&hl=en&oi=sra)
 
-This is a PyTorch implementation of probabilistic Convolutional Neural Network (pCNN) for uncertainty quantification of CO$_2$ plume migration in highly channelized aquifers with 
+This $is_2$ a PyTorch implementation of probabilistic Convolutional Neural Network (pCNN) for uncertainty quantification of CO$_2$ plume migration in highly channelized aquifers with 
 non-Gaussian permeability fields of geological carbon storage (GCS) projects. pCNN can provide reliable predictions and predictive uncertainties of CO$_2$ saturation fields and then 
 be used in uncertainty quantification (UQ) of CO$_2$ plume migration in non-Gaussian permeability fields. It can also be applied to other multiphase flow problems 
 concerning complex image-to-image regressions. The network architecture refers to the work of Zhu and Zabaras (2018)(https://www.sciencedirect.com/science/article/pii/S0021999118302341).
