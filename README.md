@@ -13,10 +13,10 @@ concerning complex image-to-image regressions.
 * matplotlib
 * scipy
 
-## pCNN network architecture
+### pCNN network architecture
 ![](https://github.com/njujinchun/pCNN4GCS/blob/main/images/pCNN_arch.jpg)
 
-## Reference $CO_2$ saturation fields (b-d), pCNN's predictions (e-g), the differences between references and predictions (h-j) and predictive uncertainties (k-m)
+### Reference $CO_2$ saturation fields (b-d), pCNN's predictions (e-g), the differences between references and predictions (h-j) and predictive uncertainties (k-m)
 ![](https://github.com/njujinchun/pCNN4GCS/blob/main/images/pCNN_predictions.JPG)
 
 # Datasets
