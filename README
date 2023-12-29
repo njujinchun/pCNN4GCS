@@ -16,7 +16,7 @@ concerning complex image-to-image regressions. The network architecture refers t
 * scipy
 
 ## pCNN network architecture
-![]()
+![](https://github.com/njujinchun/pCNN4GCS/blob/main/images/pCNN_arch.jpg)
 
 # Datasets
 The datasets used in pCNN have been uploaded to Google Drive and can be downloaded using this link [Google Drive]().
